@@ -97,7 +97,7 @@ input, select, textarea {
 		background-size: 100% 30em, auto;
 		font-family: 'Open Sans', sans-serif;
 		font-size: 13pt;
-		color: #251400;
+		color: #790000;
 		font-weight: 300;
 		line-height: 2.25em;
 	}
@@ -116,7 +116,7 @@ input, select, textarea {
 	input, select, textarea {
 		font-family: 'Open Sans', sans-serif;
 		font-size: 13pt;
-		color: #46230c;
+		color: #790000;
 		font-weight: 300;
 		line-height: 2.25em;
 	}
@@ -142,7 +142,7 @@ input, select, textarea {
 		}
 
 	h2 {
-		font-size: 2.25em;
+		font-size: 2.05em;
 		margin: 0 0 1.1em 0;
 		line-height: 1em;
 	}
@@ -1638,7 +1638,7 @@ input, select, textarea {
 		color: #fff;
 		text-decoration: none;
 		border-radius: 6px;
-		font-weight: 800;
+		font-weight: 700;
 		outline: 0;
 		border: 0;
 		cursor: pointer;
