@@ -199,7 +199,7 @@ input, select, textarea {
         }
 	
         .resize-image {
-            width: 50%; /* Adjust to reduce size by half */
+            width: 10%; /* Adjust to reduce size by half */
             height: auto; /* Maintain aspect ratio */
         }
 
