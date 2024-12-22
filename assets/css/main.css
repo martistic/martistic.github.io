@@ -193,7 +193,17 @@ input, select, textarea {
 	}
 
 /* Container */
+<style>
+        .spaced-paragraph {
+            line-height: 2.5; /* Adjust the value as needed */
+        }
+	
+        .resize-image {
+            width: 50%; /* Adjust to reduce size by half */
+            height: auto; /* Maintain aspect ratio */
+        }
 
+ </style>
 	.container {
 		margin: 0 auto;
 		max-width: 100%;
